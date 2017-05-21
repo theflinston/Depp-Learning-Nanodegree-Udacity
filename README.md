@@ -1,6 +1,6 @@
 # Depp-Learning-Nanodegree-Udacity
 
-# project 1
+# Bike Sharing Ride
 ```
   conda create --name dlnd python=3
   source activate dlnd
